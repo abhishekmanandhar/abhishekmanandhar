@@ -1,20 +1,20 @@
 ![AbhishekManandhar][banner]
 
-### Hi there 👋
+### 👋 Hi there, fellow developers!
+I'm Abhishek. I am fullstack development enthusiast and salesforce developer learner.
 
-<!--
-**abhishekmanandhar/abhishekmanandhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I'm currently working on expanding my knowledge in apex programming.
+- 🌱 I’m currently trailblazing and earning badges.
+- 👯 I’m looking to collaborate with salesforce developers.
+- ⚡ Fun fact: I'm willing to learn new things amd improve my skills. Apart from my world of tech, in my free time, I like to sketch! 
 
-Here are some ideas to get you started:
+## Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+![<img align="left" alt="JavaScript" width="26px" src="https://icons8.com/icon/13963/twitter" />][twitter]
+
+Let's connect and collaborate on exciting projects! Feel free to reach out if you want to discuss ideas, share knowledge, or simply geek out about coding. Happy coding! ✨👨‍💻
 
 [banner]: https://github.com/abhishekmanandhar/abhishekmanandhar/blob/main/banner.png
+[twitter]: https://twitter.com/AbhishekMdr17
