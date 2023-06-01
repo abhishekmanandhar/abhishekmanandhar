@@ -1,3 +1,5 @@
+![AbhishekManandhar][banner]
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[banner]: https://github.com/abhishekmanandhar/abhishekmanandhar/blob/main/banner.png
