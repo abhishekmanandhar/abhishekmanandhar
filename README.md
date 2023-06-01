@@ -1,30 +1,44 @@
 ![AbhishekManandhar][banner]
 
-### 👋 Hi there, fellow developers!
+## Hi there 👋, fellow developers!
 I'm Abhishek. I am fullstack development enthusiast and salesforce developer learner.
 
 ## About Me
-- 🔭 I'm currently working on expanding my knowledge in apex programming.
-- 🌱 I’m currently trailblazing and earning badges.
-- 👯 I’m looking to collaborate with salesforce developers.
+- 🌱 I’m currently trailblazing, earning badges and learning apex programming.
+- 👯 I’m looking to collaborate with developers.
 - ⚡ Fun fact: I'm willing to learn new things amd improve my skills. Apart from my world of tech, in my free time, I like to sketch! 
 
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
-  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html5"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/>
+  <img width="48" height="48" src="https://img.icons8.com/sf-black-filled/64/github.png" alt="github"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socket.io"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio-code"/>
 </p>
 
 ## Connect with Me
-<a href="https://twitter.com/AbhishekMdr17" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a>        
+<a href="https://twitter.com/AbhishekMdr17" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/></a>
+<a href="https://www.linkedin.com/in/abhishek-manandhar-ab50a21a9/" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
+[![](https://img.shields.io/badge/Gmail-abhishekmanandhar17-blue?style=for-the-badge&logo=gmail)](mailto:abhishekmanandhar17@gmail.com)
 
 Let's connect and collaborate on exciting projects! Feel free to reach out if you want to discuss ideas, share knowledge, or simply geek out about coding. Happy coding! ✨👨‍💻
+
+## Github Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmanandhar&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="abhishekmanandhar" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmanandhar&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="abhishekmanandhar" />
+</p>
 
 [banner]: https://github.com/abhishekmanandhar/abhishekmanandhar/blob/main/banner.png
 [twitter]: https://twitter.com/AbhishekMdr17
