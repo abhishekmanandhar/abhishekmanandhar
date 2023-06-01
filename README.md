@@ -11,19 +11,18 @@ I'm Abhishek. I am fullstack development enthusiast and salesforce developer lea
 
 ## Languages and Tools
 
-  ![<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Python" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<p align="left">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
-
+  
+</p>
 
 ## Connect with Me
-<img align="left" alt="Twitter" width="26px" src="https://icons8.com/icon/13963/twitter" />
+![image](https://github.com/abhishekmanandhar/abhishekmanandhar/assets/54825587/acbe2947-5747-48e2-ac30-7c2041a4fd25)"
 
 Let's connect and collaborate on exciting projects! Feel free to reach out if you want to discuss ideas, share knowledge, or simply geek out about coding. Happy coding! ✨👨‍💻
 
