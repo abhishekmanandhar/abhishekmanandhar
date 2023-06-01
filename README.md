@@ -12,7 +12,7 @@ I'm Abhishek. I am fullstack development enthusiast and salesforce developer lea
 ## Languages and Tools
 
 ## Connect with Me
-![<img align="left" alt="JavaScript" width="26px" src="https://icons8.com/icon/13963/twitter" />][twitter]
+<img align="left" alt="Twitter" width="26px" src="https://icons8.com/icon/13963/twitter" />
 
 Let's connect and collaborate on exciting projects! Feel free to reach out if you want to discuss ideas, share knowledge, or simply geek out about coding. Happy coding! ✨👨‍💻
 
