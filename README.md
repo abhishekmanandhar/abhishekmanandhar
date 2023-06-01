@@ -22,7 +22,7 @@ I'm Abhishek. I am fullstack development enthusiast and salesforce developer lea
 </p>
 
 ## Connect with Me
-![image](https://github.com/abhishekmanandhar/abhishekmanandhar/assets/54825587/acbe2947-5747-48e2-ac30-7c2041a4fd25)"
+  <img src="https://github.com/abhishekmanandhar/abhishekmanandhar/assets/54825587/acbe2947-5747-48e2-ac30-7c2041a4fd25" alt="SQL" width="40" height="40"/>
 
 Let's connect and collaborate on exciting projects! Feel free to reach out if you want to discuss ideas, share knowledge, or simply geek out about coding. Happy coding! ✨👨‍💻
 
