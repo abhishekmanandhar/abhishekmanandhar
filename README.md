@@ -10,7 +10,7 @@ I'm Abhishek. I am fullstack development enthusiast and salesforce developer lea
 - ⚡ Fun fact: I'm willing to learn new things amd improve my skills. Apart from my world of tech, in my free time, I like to sketch! 
 
 ## Languages and Tools
-<p align="left">
+
   ![<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Python" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" width="40" height="40"/>
@@ -20,7 +20,7 @@ I'm Abhishek. I am fullstack development enthusiast and salesforce developer lea
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
-</p>
+
 
 ## Connect with Me
 <img align="left" alt="Twitter" width="26px" src="https://icons8.com/icon/13963/twitter" />
