@@ -36,7 +36,9 @@ Let's connect and collaborate on exciting projects! Feel free to reach out if yo
 ## Github Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmanandhar&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="abhishekmanandhar" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmanandhar&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="abhishekmanandhar" />
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmanandhar&layout=compact&hide=php,smarty&bg_color=1c1917&title_color=fff&text_color=fff" alt="abhishekmanandhar" /> -->
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishekmanandhar&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=1c1917&title_color=fff&text_color=fff" alt="abhishekmanandhar" /> -->
+  <img alight="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmanandhar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
 
 [banner]: https://github.com/abhishekmanandhar/abhishekmanandhar/blob/main/banner.png
