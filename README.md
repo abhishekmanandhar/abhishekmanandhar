@@ -30,8 +30,11 @@ I'm Abhishek. I am fullstack development enthusiast and salesforce developer lea
 ## Connect with Me
 <a href="https://twitter.com/AbhishekMdr17" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/></a>
 <a href="https://www.linkedin.com/in/abhishek-manandhar-ab50a21a9/" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
+<a href="https://trailblazer.me/id/abhishekmanandhar" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/salesforce.png" alt="salesforce"/></a>
 
-Let's connect and collaborate on exciting projects! Feel free to reach out if you want to discuss ideas, share knowledge, or simply geek out about coding. Here's my gmail: `abhishekmanandhar17@gmail.com`. Happy coding! ✨👨‍💻
+Let's connect and collaborate on exciting projects! Feel free to reach out if you want to discuss ideas, share knowledge, or simply geek out about coding. Here's my gmail: `abhishekmanandhar17@gmail.com`. 
+
+Happy coding! ✨👨‍💻
 
 ## Github Stats
 
