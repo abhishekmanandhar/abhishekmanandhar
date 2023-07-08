@@ -25,6 +25,7 @@ I'm Abhishek. I am fullstack development enthusiast and salesforce developer lea
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socket.io"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio-code"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/salesforce.png" alt="salesforce"/>
 </p>
 
 ## Connect with Me
